@@ -2,7 +2,7 @@
 <!--                    HERO / BANNER SECTION                         -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:111827,100:1f2937&height=220&section=header&text=Gaveesha%20Dilki&fontSize=54&fontColor=f9fafb&animation=fadeIn&fontAlignY=40&desc=Building%20Inclusive%20Technology%20%E2%80%94%20One%20Line%20at%20a%20Time&descSize=16&descAlignY=62&descColor=9ca3af" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,25:8b5cf6,50:ec4899,75:f59e0b,100:06b6d4&height=240&section=header&text=Gaveesha%20Dilki&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=✨%20Building%20Inclusive%20Technology%20—%20One%20Line%20at%20a%20Time%20✨&descSize=17&descAlignY=63&descColor=ffffff" />
 </div>
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -28,28 +28,9 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;About Me
 </h2>
 <div align="center">
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   A problem-solver at heart, dedicated to building technology    ║
-║   that's as inclusive as it is impactful. I focus on creating    ║
-║   intuitive, user-friendly tools that break down barriers and    ║
-║   put the power of innovation in everyone's hands — freely       ║
-║   and without exception.                                         ║
-║                                                                  ║
-║         Technology should serve people, not the other way.       ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-</div>
-<br/>
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                     QUICK INFO CARDS                             -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align="center">⚡ Quick Info</h2>
-<div align="center">
-🔭 Currently Working On🌱 Currently Learning💬 Ask Me About⚡ Fun FactNova TechFastAPIReactCall me Gavee!
+  <p width="80%">
+    A problem-solver at heart, I'm dedicated to building technology that's as <strong>inclusive</strong> as it is <strong>impactful</strong>. I focus on creating intuitive, user-friendly tools that break down barriers and put the power of innovation in everyone's hands — freely and without exception. My work is guided by one core conviction: <em>technology should serve people, not the other way around.</em>
+  </p>
 </div>
 <br/>
 <!-- ══════════════════════════════════════════════════════════════════ -->
