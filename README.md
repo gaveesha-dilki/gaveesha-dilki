@@ -13,9 +13,8 @@ I build products that are practical, human-centered, and scalable. I enjoy ownin
 ## 🚀 Current Focus
 
 - 🔭 Building **Nova Tech**.
-- 🌱 Deepening knowledge in **FastAPI**, system design, and cloud deployment.
-- 🤝 Open to collaborations on impactful web products.
-- 💬 Ask me about **React, modern frontend architecture, and full-stack delivery**.
+- 🌱 Currently exploring **system design** and **cloud-native architecture**
+- 🤝 Open to collaborating on meaningful open-source work
 
 ---
 
