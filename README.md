@@ -6,7 +6,8 @@
 
 </div>
 
-I build products that are practical, human-centered, and scalable. I enjoy owning features end-to-end, from UI polish to API design and deployment.
+I believe great software is built at the intersection of clean code and thoughtful design.
+
 
 ---
 
