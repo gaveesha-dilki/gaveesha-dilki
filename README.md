@@ -35,26 +35,6 @@ I build products that are practical, human-centered, and scalable. I enjoy ownin
 
 ---
 
-## 📌 Featured Work (Suggested)
-
-> Replace these placeholders with real repos/pinned projects.
-
-- **Project 1 — Problem + Impact**
-  - One-line outcome-focused summary.
-  - Tech: `React`, `Node.js`, `PostgreSQL`
-  - Link: `https://github.com/<your-repo>`
-
-- **Project 2 — Problem + Impact**
-  - One-line outcome-focused summary.
-  - Tech: `Next.js`, `FastAPI`, `Docker`
-  - Link: `https://github.com/<your-repo>`
-
-- **Project 3 — Problem + Impact**
-  - One-line outcome-focused summary.
-  - Tech: `Angular`, `Spring Boot`, `MySQL`
-  - Link: `https://github.com/<your-repo>`
-
----
 
 ## 📊 GitHub Analytics
 
